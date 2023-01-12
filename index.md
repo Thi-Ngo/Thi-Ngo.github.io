@@ -29,7 +29,9 @@ The study included 302 patients, with 206 males and 96 females.
 <br>
 <img src="images/heart1.png?raw=true"/>
 Heart disease comparison between males and females
-
+<br>
+<img src="images/heart3.png?raw=true"/>
+Comparision of resting blood pressure between males and females
 
 ---
 [Project 3 Title](http://example.com/)
