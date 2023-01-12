@@ -21,7 +21,7 @@ Analyzing whether punctuation affects views, likes, and comments
 ---
 
 <br><br>
-## [Heart Disease Analysis]([https://github.com/Thi-Ngo/Heart-Disease-Analysis/blob/main/Heart%20Disease%20Analysis.ipynb](https://github.com/Thi-Ngo/Heart-Disease-Analysis)
+## [Heart Disease Analysis](https://github.com/Thi-Ngo/Heart-Disease-Analysis/blob/main/Heart%20Disease%20Analysis.ipynb](https://github.com/Thi-Ngo/Heart-Disease-Analysis)
 <br>
 Heart disease is one of the most popular causes of death for Americans. More than 30 million US adults are diagnosed with heart disease, and about 650,000 Americans die every year. In this analysis, the work examined data on heart disease patients to identify factors that may be associated with an increased risk of heart disease.
 The study included 302 patients, with 206 males and 96 females. 
