@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Thi Ngo # your name (or website title) here
+logo: "/ThiNgo1.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+Posses a Bachelor's degree in Finance and Banking. Two years of experiences in Finance industry.
+Pursuing a second Bachelor's degree in Information Science and Data Analytics
   <br><br>
-  Second description 
+  Possitive - Persistent - Hardworking
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/thi-ngo-a6570a1b5/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
