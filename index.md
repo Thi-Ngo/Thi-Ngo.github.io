@@ -3,13 +3,11 @@
 ---
 
 ### Python Projects 
-<br><br>
-
-This analysis aims to explore various aspects of YouTube data, including popular negative and positive comments, an emoji analysis, trending videos, and how punctuation and video category affect likes, views, and comments. Additionally, audience engagement will be studied to identify which types of videos resonate most with viewers. By gaining a deeper understanding of the factors that drive popularity and engagement on YouTube, this analysis aims to provide valuable insights for those looking to create or promote content on the platform.
 
 <br><br>
 [YouTube - Text Analysis](https://github.com/Thi-Ngo/YouTube---Text-analysis/blob/main/Youtube%20Analysis.ipynb)
-
+This analysis aims to explore various aspects of YouTube data, including popular negative and positive comments, an emoji analysis, trending videos, and how punctuation and video category affect likes, views, and comments. Additionally, audience engagement will be studied to identify which types of videos resonate most with viewers. By gaining a deeper understanding of the factors that drive popularity and engagement on YouTube, this analysis aims to provide valuable insights for those looking to create or promote content on the platform.
+<br><br>
 <img src="images/youtube 2.png?raw=true"/>
 Popular positive words on YouTube's comments
 
