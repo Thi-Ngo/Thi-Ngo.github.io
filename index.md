@@ -11,6 +11,9 @@ Popular positive words on YouTube's comments
 
 <img src="images/Youtube 3.png?raw=true"/>
 Top ten icons on Youtube'd comments
+
+<img src="images/youtube 6.png?raw=true"/>
+Analyzing whether punctuation affects views, likes, and comments
 ---
 
 
