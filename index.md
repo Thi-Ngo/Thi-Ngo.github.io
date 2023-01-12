@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Python Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Youtube - Text Analysis](/sample_page)
+<img src="images/youtube 1.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
