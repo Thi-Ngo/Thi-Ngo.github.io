@@ -3,10 +3,9 @@
 ---
 
 ### Python Projects 
+<br><br>
 
-![GitHub](https://github.com/Thi-Ngo/YouTube---Text-analysis/blob/main/Youtube%20Analysis.ipynb)
-
-[YouTube - Text Analysis](/sample_page)
+[YouTube - Text Analysis](https://github.com/Thi-Ngo/YouTube---Text-analysis/blob/main/Youtube%20Analysis.ipynb)
 
 <img src="images/youtube 2.png?raw=true"/>
 Popular positive words on YouTube's comments
