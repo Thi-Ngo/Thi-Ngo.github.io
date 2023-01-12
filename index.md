@@ -28,7 +28,7 @@ The study included 302 patients, with 206 males and 96 females.
 
 <br>
 <img src="images/heart1.png?raw=true"/>
-Heart disease rate in males and females
+Heart disease comparison between males and females
 
 
 ---
