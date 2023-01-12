@@ -4,6 +4,8 @@
 
 ### Python Projects 
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 [YouTube - Text Analysis](/sample_page)
 
 <img src="images/youtube 2.png?raw=true"/>
@@ -24,7 +26,6 @@ Analyzing whether punctuation affects views, likes, and comments
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 ---
 
 ### Category Name 2
