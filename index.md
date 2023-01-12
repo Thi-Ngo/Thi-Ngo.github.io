@@ -5,7 +5,7 @@
 ### Python Projects 
 
 [Youtube - Text Analysis](/sample_page)
-<img src="images/youtube 1.png?raw=true"/>
+<img src="images/youtube 2.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
