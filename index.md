@@ -44,10 +44,12 @@ Comparision of resting blood pressure between males and females
 ## [Facebook Analysis](https://rpubs.com/Thi_Ngo/991308)
 <br><br>
 In this analysis, we will be examining Facebook data for a large number of users. The data includes information such as userid, age, date of birth, gender, tenure on the platform, friend count, and various metrics related to likes and likes received. We will be focusing on the popular age range for Facebook users, comparing the behaviors of male and female users, and exploring how factors such as number of friends may affect the number of likes received. Overall, this analysis aims to provide a deeper understanding of how users engage with the platform and the factors that influence their behavior.
-<br1><br1>
+<br><br>
 <img src="images/fb1.png?raw=true"/>
   Female and Male friends
-  
+ <br>
+ <img src="images/fb2.png?raw=true"/>
+ Distribution of users'age
   
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
