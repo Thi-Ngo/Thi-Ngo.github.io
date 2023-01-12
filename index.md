@@ -4,7 +4,7 @@
 
 ### Python Projects 
 
-![alt text](https://github.com/Thi-Ngo/YouTube---Text-analysis/blob/main/Youtube%20Analysis.ipynb)
+![GitHub](https://github.com/Thi-Ngo/YouTube---Text-analysis/blob/main/Youtube%20Analysis.ipynb)
 
 [YouTube - Text Analysis](/sample_page)
 
