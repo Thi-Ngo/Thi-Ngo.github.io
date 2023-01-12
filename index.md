@@ -4,9 +4,10 @@
 
 ### Python Projects 
 
-[Youtube - Text Analysis](/sample_page)
-<img src="images/youtube 2.png?raw=true"/>
+[YouTube - Text Analysis](/sample_page)
 
+<img src="images/youtube 2.png?raw=true"/>
+Popular positive words on YouTube's comments
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
