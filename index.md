@@ -21,9 +21,13 @@ Analyzing whether punctuation affects views, likes, and comments
 ---
 
 
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+## [Heart Disease Analysis](https://github.com/Thi-Ngo/Heart-Disease-Analysis/blob/main/Heart%20Disease%20Analysis.ipynb)
+<br>
+Heart disease is one of the most popular causes of death for Americans. More than 30 million US adults are diagnosed with heart disease, and about 650,000 Americans die every year. In this analysis, the work examined data on heart disease patients to identify factors that may be associated with an increased risk of heart disease.
+The study included 302 patients, with 206 males and 96 females. 
+<br>
+<img src="images/heart1.png?raw=true"/>
+Heart disease rate in males and females
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
