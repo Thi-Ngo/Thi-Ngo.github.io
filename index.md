@@ -10,8 +10,8 @@
 This analysis aims to explore various aspects of YouTube data, including popular negative and positive comments, an emoji analysis, trending videos, and how punctuation and video category affect likes, views, and comments. Additionally, audience engagement will be studied to identify which types of videos resonate most with viewers. By gaining a deeper understanding of the factors that drive popularity and engagement on YouTube, this analysis aims to provide valuable insights for those looking to create or promote content on the platform.
 <br>
 <img src="images/youtube 2.png?raw=true"/>
-<p style="margin-left: 5px;">Popular positive words on YouTube's comments
-
+Popular positive words on YouTube's comments
+<br><br>
 <img src="images/Youtube 3.png?raw=true"/>
 Top ten icons on Youtube'd comments
 <br><br>
