@@ -68,6 +68,7 @@ The project aims to analyze historical stock data for the pharmaceutical company
  <img src="images/stock4.png?raw=true"/>
  Lowest and Highest price day
 
+<img src="images/stock1.png?raw=true"/>
 ---
 
 
