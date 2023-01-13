@@ -59,6 +59,7 @@ In this analysis, we will be examining Facebook data for a large number of users
 <br><br>
 The project aims to analyze historical stock data for the pharmaceutical company Novartis. The goal is to identify trends and patterns in the data, use an ARIMA model to make predictions about future stock prices, and ultimately determine the best days to buy or sell the stock.
 <br><br>
+
 <img src="images/stock1.png?raw=true"/>
  ACF and PACF of a time series
  <br>
