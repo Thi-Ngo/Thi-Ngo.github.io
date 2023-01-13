@@ -52,7 +52,6 @@ In this analysis, we will be examining Facebook data for a large number of users
  Distribution of users'age
   <br><br>
   <img src="images/fb5.png?raw=true"/>
- Correlation between number of friends and number of likes
  <br><br>
  
 
