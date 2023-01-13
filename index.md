@@ -50,7 +50,12 @@ In this analysis, we will be examining Facebook data for a large number of users
  <br>
  <img src="images/fb2.png?raw=true"/>
  Distribution of users'age
-  
+  <br><br>
+  <img src="images/fb5.png?raw=true"/>
+ Correlation between number of friends and number of likes
+ <br><br>
+ 
+
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
