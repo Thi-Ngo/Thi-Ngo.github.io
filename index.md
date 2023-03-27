@@ -5,7 +5,7 @@
 ## Projects With Python/Excel/Power BI
 
 <br><br>
-## Mental Health Illness Analysis
+## 1.Mental Health Illness Analysis
 <br>
 Mental health is a topic of immense interest and importance to me, which is why I embarked on this project to analyze relevant data. As someone who is passionate about promoting mental wellness and addressing mental health stigma, I was excited to undertake this endeavor and gain a deeper understanding of the subject. I firmly believe that mental health is a critical component of overall well-being, and it's essential to have accurate and comprehensive data to guide our efforts in promoting and supporting mental health. Through this analysis, I aim to contribute to the ongoing conversation about mental health and help uncover insights that can inform future policies and interventions.
 
@@ -44,7 +44,7 @@ The analysis of mental health data revealed several insights, including higher r
 
 - The analysis identified a strong positive correlation between drug disorder and depression, indicating that drug disorder is the most influential factor contributing to depression.
 
-##  Healthcare Insurance Analysis
+##  2.Healthcare Insurance Analysis
 Healthcare costs have been increasing rapidly in recent years, posing significant challenges to individuals, families, and the healthcare system as a whole. The analysis of factors that affect healthcare costs is an important tool for policymakers, insurance providers, and healthcare providers in understanding the drivers of healthcare costs and developing strategies to ensure access to quality healthcare services at affordable prices.
 ### About the project
 #### Purpose
@@ -96,7 +96,7 @@ The R Squared value is over 75% and the Significance F value is below 0.5, which
 
 - People living in the southeast and the northeast pay higher than in other regions
 
-## E-commerce Analysis
+## 3.E-commerce Analysis
 E-commerce has become an essential part of modern business operations, providing a platform for businesses to sell their products and services to customers worldwide. The growth of E-commerce has been fueled by the increasing number of internet users and the convenience it offers. E-commerce data analysis has become an essential tool for businesses to gain insights into customer behavior and preferences, identify trends, and optimize their operations.
 ### About the Project
 #### Purpose
@@ -125,7 +125,7 @@ Analyzing sales data to identify the most successful city, popular products, and
 <img src="images/sale4.png?raw=true"/>
 <img src="images/sale5.png?raw=true"/>
 
-## [YouTube - Text Analysis](https://github.com/Thi-Ngo/YouTube---Text-analysis/blob/main/Youtube%20Analysis.ipynb)
+## 4.[YouTube - Text Analysis](https://github.com/Thi-Ngo/YouTube---Text-analysis/blob/main/Youtube%20Analysis.ipynb)
 <br>
 This analysis aims to explore various aspects of YouTube data, including popular negative and positive comments, an emoji analysis, trending videos, and how punctuation and video category affect likes, views, and comments. Additionally, audience engagement will be studied to identify which types of videos resonate most with viewers. By gaining a deeper understanding of the factors that drive popularity and engagement on YouTube, this analysis aims to provide valuable insights for those looking to create or promote content on the platform.
 <br><br><br>
@@ -141,7 +141,7 @@ Analyzing whether punctuation affects views, likes, and comments
 ---
 
 <br><br>
-## [Heart Disease Analysis](https://github.com/Thi-Ngo/Heart-Disease-Analysis/blob/main/Heart%20Disease%20Analysis.ipynb)
+## 5.[Heart Disease Analysis](https://github.com/Thi-Ngo/Heart-Disease-Analysis/blob/main/Heart%20Disease%20Analysis.ipynb)
 <br>
 Heart disease is one of the most popular causes of death for Americans. More than 30 million US adults are diagnosed with heart disease, and about 650,000 Americans die every year. In this analysis, the work examined data on heart disease patients to identify factors that may be associated with an increased risk of heart disease.
 The study included 302 patients, with 206 males and 96 females. 
