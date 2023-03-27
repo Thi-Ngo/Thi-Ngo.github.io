@@ -117,6 +117,7 @@ Analyzing sales data to identify the most successful city, popular products, and
 - Analyze dataset using Python
 
 - Share the conclusion of this analysis with the business owner to help them identify opportunities to improve their operations, and help them stay competitive in a rapidly evolving market.
+
 #### Visualization
 
 <img src="images/Sale1.png?raw=true"/>
@@ -124,6 +125,16 @@ Analyzing sales data to identify the most successful city, popular products, and
 <img src="images/sale3.png?raw=true"/>
 <img src="images/sale4.png?raw=true"/>
 <img src="images/sale5.png?raw=true"/>
+#### Key Findings
+- Sales witnessed an increase during the last quarter of the year, specifically in October, November, and December, with December recording the highest peak in sales.
+
+- San Francisco leads the list of cities with the highest sales volume, followed by Los Angeles and New York.
+
+- The maximum number of orders recorded during the day was approximately 12,000 units, with the peak times being at 11 AM and 7 PM.
+
+- The product with the lowest price point garnered the highest sales figures.
+
+- The Google Phone and USB-C Charging Cable are commonly sold together and constitute a popular bundle purchase.
 
 ## 4.[YouTube - Text Analysis](https://github.com/Thi-Ngo/YouTube---Text-analysis/blob/main/Youtube%20Analysis.ipynb)
 <br>
