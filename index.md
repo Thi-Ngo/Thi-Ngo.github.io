@@ -5,6 +5,29 @@
 ## Projects With Python
 
 <br><br>
+## [Mental Health Illness Analysis]
+<br>
+Mental health is a topic of immense interest and importance to me, which is why I embarked on this project to analyze relevant data. As someone who is passionate about promoting mental wellness and addressing mental health stigma, I was excited to undertake this endeavor and gain a deeper understanding of the subject. I firmly believe that mental health is a critical component of overall well-being, and it's essential to have accurate and comprehensive data to guide our efforts in promoting and supporting mental health. Through this analysis, I aim to contribute to the ongoing conversation about mental health and help uncover insights that can inform future policies and interventions.
+<br>
+### About the project
+<br>
+#### Summary
+<br>
+The analysis of mental health data revealed several insights, including higher rates of depression and anxiety among young adults, mental health disparities among marginalized communities, and increasing rates of suicidal ideation among females. It was also discovered that the rate of mental health illnesses among females is nearly double that of males. This analysis identified the most important factors contributing to mental health illness
+<br>
+#### Objective
+<br>
+1. Collect and prepare the 17 years of the USA mental health illness data (1990 to 2017).
+
+2. Combine, clean, and process the dataset to get ready for analysis.
+
+3. Analyze the dataset, and visualize using Power BI and R programming
+
+4. Share the conclusion of this analysis to help guide the development of effective and targeted interventions to promote mental health and well-being.
+
+#### Visualization
+
+  
 ## [YouTube - Text Analysis](https://github.com/Thi-Ngo/YouTube---Text-analysis/blob/main/Youtube%20Analysis.ipynb)
 <br>
 This analysis aims to explore various aspects of YouTube data, including popular negative and positive comments, an emoji analysis, trending videos, and how punctuation and video category affect likes, views, and comments. Additionally, audience engagement will be studied to identify which types of videos resonate most with viewers. By gaining a deeper understanding of the factors that drive popularity and engagement on YouTube, this analysis aims to provide valuable insights for those looking to create or promote content on the platform.
