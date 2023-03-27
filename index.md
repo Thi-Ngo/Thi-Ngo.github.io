@@ -125,6 +125,7 @@ Analyzing sales data to identify the most successful city, popular products, and
 <img src="images/sale3.png?raw=true"/>
 <img src="images/sale4.png?raw=true"/>
 <img src="images/sale5.png?raw=true"/>
+
 #### Key Findings
 - Sales witnessed an increase during the last quarter of the year, specifically in October, November, and December, with December recording the highest peak in sales.
 
