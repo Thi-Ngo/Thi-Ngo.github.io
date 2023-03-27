@@ -2,7 +2,7 @@
 
 ---
 
-## Projects With Python
+## Projects With Python/Excel/Power BI
 
 <br><br>
 ## Mental Health Illness Analysis
