@@ -8,13 +8,13 @@
 ## [Mental Health Illness Analysis]
 <br>
 Mental health is a topic of immense interest and importance to me, which is why I embarked on this project to analyze relevant data. As someone who is passionate about promoting mental wellness and addressing mental health stigma, I was excited to undertake this endeavor and gain a deeper understanding of the subject. I firmly believe that mental health is a critical component of overall well-being, and it's essential to have accurate and comprehensive data to guide our efforts in promoting and supporting mental health. Through this analysis, I aim to contribute to the ongoing conversation about mental health and help uncover insights that can inform future policies and interventions.
-<br>
+
 ### About the project
-<br>
+
 #### Summary
 <br>
 The analysis of mental health data revealed several insights, including higher rates of depression and anxiety among young adults, mental health disparities among marginalized communities, and increasing rates of suicidal ideation among females. It was also discovered that the rate of mental health illnesses among females is nearly double that of males. This analysis identified the most important factors contributing to mental health illness
-<br>
+
 #### Objective
 <br>
 1. Collect and prepare the 17 years of the USA mental health illness data (1990 to 2017).
