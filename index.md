@@ -26,6 +26,12 @@ The analysis of mental health data revealed several insights, including higher r
 4. Share the conclusion of this analysis to help guide the development of effective and targeted interventions to promote mental health and well-being.
 
 #### Visualization
+<img src="images/1.png?raw=true"/>
+<img src="images/2.png?raw=true"/>
+<img src="images/3.png?raw=true"/>
+<img src="images/4.png?raw=true"/>
+<img src="images/5.png?raw=true"/>
+<img src="images/10.png?raw=true"/>
 
   
 ## [YouTube - Text Analysis](https://github.com/Thi-Ngo/YouTube---Text-analysis/blob/main/Youtube%20Analysis.ipynb)
