@@ -78,12 +78,14 @@ The R Squared value is over 75% and the Significance F value is below 0.5, which
  Gender is not a significant factor affecting insurance charges, while age, BMI, and smoking status are the most important factors impacting insurance costs. Non-smokers pay a much lower insurance cost than smokers. It may be said that elders, people with high BMI, or smokers have a high level of health risks, which leads to a higher insurance cost. Regions also influence insurance costs, Southeast and Northeast pay a higher charge than other regions, while the number of children has a light correlation with the insurance cost.
  
  #### 2.1.5 Visualization 
+ 
  <img src="images/1.1.png?raw=true"/>
  <img src="images/2.2.png?raw=true"/>
  <img src="images/3.3.png?raw=true"/>
  <img src="images/4.4.png?raw=true"/>
  
 #### 2.2 Key Findings
+
 - R square = 75%. The difference in input variables explains 75% of the difference in insurance charges.
 
 - Age, BMI, smoking status, and the number of children are the most critical factors affecting insurance costs, while the regions also influence insurance costs, but it is not a major factor.
