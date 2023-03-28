@@ -82,6 +82,7 @@ The R Squared value is over 75% and the Significance F value is below 0.5, which
  <img src="images/2.2.png?raw=true"/>
  <img src="images/3.3.png?raw=true"/>
  <img src="images/4.4.png?raw=true"/>
+ 
 #### 2.2 Key Findings
 - R square = 75%. The difference in input variables explains 75% of the difference in insurance charges.
 
