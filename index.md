@@ -2,7 +2,7 @@
 
 ---
 
-## Projects With Python/Excel/Power BI
+## Projects With Power BI
 
 <br><br>
 ## 1.Mental Health Illness Analysis
@@ -44,6 +44,7 @@ The analysis of mental health data revealed several insights, including higher r
 
 - The analysis identified a strong positive correlation between drug disorder and depression, indicating that drug disorder is the most influential factor contributing to depression.
 
+## Project with Excel
 ##  2.Healthcare Insurance Analysis
 Healthcare costs have been increasing rapidly in recent years, posing significant challenges to individuals, families, and the healthcare system as a whole. The analysis of factors that affect healthcare costs is an important tool for policymakers, insurance providers, and healthcare providers in understanding the drivers of healthcare costs and developing strategies to ensure access to quality healthcare services at affordable prices.
 ### 2.1 About the project
@@ -70,6 +71,7 @@ This study aims to analyze the factors that affect healthcare costs and provide 
 - Analyze dataset using Excel Toolpak and Pivot Table
 
 - Share the conclusion of this analysis with policymakers, insurance providers, and healthcare providers in understanding the drivers of healthcare costs and developing strategies to ensure access to quality healthcare services at affordable prices
+
 #### 2.1.4 Regression Analysis
 
 The R Squared value is over 75% and the Significance F value is below 0.5, which indicates a meaningful correlation between the input variables and the output variable of insurance charges. Taking a closer look at the P-value for each of the individual variables, there is a bit more information about the significance of each of the individual variables. The variables “age”, “BMI”, “children”, and “smoker” are strongly correlated with charges. There is also a slightly less significant correlation between the output variable and “region.” The variable “gender” does not appear to have a strong correlation with costs, as its p-value is much higher than 0.05.
@@ -96,6 +98,7 @@ The R Squared value is over 75% and the Significance F value is below 0.5, which
 
 - People living in the southeast and the northeast pay higher than in other regions
 
+## Projects with Python
 ## 3.E-commerce Analysis
 E-commerce has become an essential part of modern business operations, providing a platform for businesses to sell their products and services to customers worldwide. The growth of E-commerce has been fueled by the increasing number of internet users and the convenience it offers. E-commerce data analysis has become an essential tool for businesses to gain insights into customer behavior and preferences, identify trends, and optimize their operations.
 ### 3.1 About the Project
