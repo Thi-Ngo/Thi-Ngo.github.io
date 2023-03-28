@@ -16,7 +16,6 @@ Mental health is a topic of immense interest and importance to me, which is why 
 The analysis of mental health data revealed several insights, including higher rates of depression and anxiety among young adults, mental health disparities among marginalized communities, and increasing rates of suicidal ideation among females. It was also discovered that the rate of mental health illnesses among females is nearly double that of males. This analysis identified the most important factors contributing to mental health illness
 
 #### 1.1.2 Objective
-<br>
 1. Collect and prepare the 17 years of the USA mental health illness data (1990 to 2017).
 
 2. Combine, clean, and process the dataset to get ready for analysis.
